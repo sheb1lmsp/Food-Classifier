@@ -1,0 +1,5 @@
+#Raw Dataset Files
+data/
+
+#Jupyter Notebook
+.ipynb_checkpoints/
