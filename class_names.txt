@@ -1,0 +1,10 @@
+apple_pie
+donuts
+french_fries
+hamburger
+hot_dog
+ice_cream
+pizza
+steak
+sushi
+tacos
