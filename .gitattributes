@@ -2,3 +2,4 @@
 examples/1050427.jpg filter=lfs diff=lfs merge=lfs -text
 examples/219922.jpg filter=lfs diff=lfs merge=lfs -text
 examples/2902766.jpg filter=lfs diff=lfs merge=lfs -text
+notebooks/project_experiments.ipynb filter=lfs diff=lfs merge=lfs -text
